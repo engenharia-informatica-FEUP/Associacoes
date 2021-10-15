@@ -1,5 +1,5 @@
 # Associações
-* Associações de informática, da FEUP ou da Universidade do Porto a que te podes juntar!
+Associações de informática, da FEUP ou da Universidade do Porto a que te podes juntar!
 
 ## AEFEUP - Associação de Estudantes da FEUP
 * Dedica-se à defesa intransigente dos direitos dos estudantes da FEUP nas diversas facetas da sua vida académica.
@@ -42,13 +42,11 @@
 > Website: https://web.fe.up.pt/~fados/
 
 ## Grupo de Jazz da FEUP 
-> Destinado à participação de membros da comunidade da Universidade do Porto (estudantes, técnicos, docentes) com formação e prática instrumental.
-> <br>
+* Destinado à participação de membros da comunidade da Universidade do Porto (estudantes, técnicos, docentes) com formação e prática instrumental.
 > Mail: ccultur@fe.up.pt
 
 ## InterUP - Youth Association for International Students 
-> Pretende acompanhar os estudantes internacionais da U.Porto.
-> <br>
+* Pretende acompanhar os estudantes internacionais da U.Porto.
 > Instagram: https://www.instagram.com/interup.porto/
 > <br>
 > Facebook: https://www.facebook.com/InterUp.Porto/
@@ -58,8 +56,7 @@
 > Website: https://interup.org/
 
 ## i-ESN -International Exchange Erasmus Student Network
-> Equipa de estudantes voluntários portugueses ou internacionais que partilham um interesse em culturas e viagens. Organizam eventos de vários tipos
-> <br>
+* Equipa de estudantes voluntários portugueses ou internacionais que partilham um interesse em culturas e viagens. Organizam eventos de vários tipos
 > Instagram: https://www.instagram.com/esnporto/
 > <br>
 > Facebook: https://www.facebook.com/ErasmusStudentNetworkPorto/
@@ -74,8 +71,7 @@
 > Website: https://paginas.fe.up.pt/~isporto/
 
 ## JuniFEUP - Júnior Empresa da Faculdade de Engenharia da Universidade do Porto
-> Empresa constituída por estudantes da Universidade do Porto, orientados para soluções de consultoria IT e webdesign, apoio na gestão de produção e apoio no desenvolvimento de produto. O seu intuito é efetivar a ligação entre o meio académico e o meio empresarial.
-> <br>
+* Empresa constituída por estudantes da Universidade do Porto, orientados para soluções de consultoria IT e webdesign, apoio na gestão de produção e apoio no desenvolvimento de produto. O seu intuito é efetivar a ligação entre o meio académico e o meio empresarial.
 > Instagram: https://www.instagram.com/junifeup/
 > <br>
 > Facebook: https://www.facebook.com/junifeup
@@ -85,8 +81,7 @@
 > Website: https://www.junifeup.pt/
 
 ## NIAEFEUP - Núcleo de Informática da AEFEUP
-> A principal motivação é ganhar experiência e competências essenciais para o mundo do trabalho assim como cultivar nos nossos colegas a vontade de aprender linguagens e novas tecnologias. Desenvolvem ideias e projetos, como também organizam eventos e workshops. 
-> <br>
+* A principal motivação é ganhar experiência e competências essenciais para o mundo do trabalho assim como cultivar nos nossos colegas a vontade de aprender linguagens e novas tecnologias. Desenvolvem ideias e projetos, como também organizam eventos e workshops. 
 > Instagram: https://www.instagram.com/niaefeup/
 > <br>
 > Facebook: https://www.facebook.com/NIAEFEUP
@@ -96,8 +91,7 @@
 > Website: https://ni.fe.up.pt/
 
 ## NECGM - Núcleo de Computação Gráfica e Multimédia
-> Dedica-se a desenvolver projetos e organizar eventos de interesse nas áreas de Computação Gráfica, Desenvolvimento de Jogos e Multimédia.
-> <br>
+* Dedica-se a desenvolver projetos e organizar eventos de interesse nas áreas de Computação Gráfica, Desenvolvimento de Jogos e Multimédia.
 > Instagram: https://www.instagram.com/ncgmfeup/
 > <br>
 > Facebook: https://www.facebook.com/NCGMFEUP
@@ -105,7 +99,7 @@
 > LinkedIn: https://www.linkedin.com/company/necgm/
 
 ## Networkme
-> Mentorias, eventos, desafios e oportunidades de emprego. 
+* Mentorias, eventos, desafios e oportunidades de emprego. 
 > Instagram: https://www.instagram.com/networkme.io/
 > <br>
 > Facebook: https://www.facebook.com/networkme.io
@@ -118,8 +112,7 @@
 > Website: https://sites.google.com/site/nrafeup/Home?authuser=0
 
 ## IEEE
-> Criação e organização de atividades como Talks, Workshops, Conferências e Symposiums. Desenvolvimento de projetos nas mais diversas áreas. É constituído por vários grupos. 
-> <br>
+* Criação e organização de atividades como Talks, Workshops, Conferências e Symposiums. Desenvolvimento de projetos nas mais diversas áreas. É constituído por vários grupos. 
 > Instagram: https://www.instagram.com/ieeeupsb/
 > <br>
 > Facebook: https://www.facebook.com/ieeeupsb/
@@ -129,8 +122,7 @@
 > Website: https://ieee.fe.up.pt/
 
 ## Share-UP
-> Conectam estudantes e NGOs com o objectivo de resolver problemas reais, juntando skills como consultoria e liderança. Promovem um progresso social e económico. E desenvolvem várias iniciativas como eventos e plataformas de casos de estudo. 
-> <br>
+* Conectam estudantes e NGOs com o objectivo de resolver problemas reais, juntando skills como consultoria e liderança. Promovem um progresso social e económico. E desenvolvem várias iniciativas como eventos e plataformas de casos de estudo. 
 > Instagram: https://www.instagram.com/share_uporto/
 > <br>
 > Facebook: https://www.facebook.com/ShAREUniversityPorto/
