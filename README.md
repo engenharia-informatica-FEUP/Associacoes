@@ -2,7 +2,7 @@
 * Associações de informática, da FEUP ou da Universidade do Porto a que te podes juntar!
 
 ## AEFEUP - Associação de Estudantes da FEUP
-* Dedica-se à defesa intransigente dos direitos dos estudantes da FEUP nas diversas facetas da sua vida académica.
+> * Dedica-se à defesa intransigente dos direitos dos estudantes da FEUP nas diversas facetas da sua vida académica.
 > Instagram: https://www.instagram.com/aefeup/ 
 > <br>
 > Facebook: https://www.facebook.com/aefeup/ 
