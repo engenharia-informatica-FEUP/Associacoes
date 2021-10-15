@@ -79,6 +79,25 @@
 > <br>
 > Website: https://ni.fe.up.pt/
 
+## NECGM - Núcleo de Computação Gráfica e Multimédia
+> Instagram: https://www.instagram.com/ncgmfeup/
+> <br>
+> Facebook: https://www.facebook.com/NCGMFEUP
+> <br>
+> LinkedIn: https://www.linkedin.com/company/necgm/
+
+## Núcleo de Radioamadores
+> Website: https://sites.google.com/site/nrafeup/Home?authuser=0
+
+## IEEE
+> Instagram: https://www.instagram.com/ieeeupsb/
+> <br>
+> Facebook: https://www.facebook.com/ieeeupsb/
+> <br>
+> LinkedIn: https://www.linkedin.com/company/ieee/
+> <br>
+> Website: https://ieee.fe.up.pt/
+
 ## Share-UP
 > Instagram: https://www.instagram.com/share_uporto/
 > <br>
@@ -87,3 +106,19 @@
 > LinkedIn: https://www.linkedin.com/company/share-university-of-porto/
 > <br>
 > Website: https://share-up.pt
+
+## TEUP - Tuna de Engenharia
+> Instagram: https://www.instagram.com/teup/
+> <br>
+> Facebook: https://www.facebook.com/teupofficial
+> <br>
+> Website: https://paginas.fe.up.pt/~teupwww/
+
+## TUNAFE - Tuna Feminina de Engenharia
+> Instagram: https://www.instagram.com/tunafe/
+> <br>
+> Facebook: https://www.facebook.com/tunafe
+> <br>
+> LinkedIn: https://www.linkedin.com/company/tunafe/
+> <br>
+> Website: https://paginas.fe.up.pt/~tunafe/WP/
