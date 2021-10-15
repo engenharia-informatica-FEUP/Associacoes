@@ -3,7 +3,6 @@
 
 ## AEFEUP - Associação de Estudantes da FEUP
 * Dedica-se à defesa intransigente dos direitos dos estudantes da FEUP nas diversas facetas da sua vida académica.
-> <br>
 > Instagram: https://www.instagram.com/aefeup/ 
 > <br>
 > Facebook: https://www.facebook.com/aefeup/ 
@@ -14,7 +13,6 @@
 
 ## BEST - Board of European Students of Technology 
 * Promove o desenvolvimento de estudantes de tecnologia, oderencendo ferramentas que complementem a sua área de estudo, encorajando comunicação e cooperação nacional e internacional, garantindo uma troca de valores e experiências. Organizam eventos como o SciTeCh, o CareerCraft, o LEoE e o ebec. 
-> <br>
 > Instagram: https://www.instagram.com/bestporto/ 
 > <br>
 > Facebook: https://www.facebook.com/bestporto
@@ -28,7 +26,6 @@
 
 ## Engenharia Rádio
 * Meio de expressão, divulgação e discussão no meio estudantil. O que podes fazer? Locução e Produção de Programas, Reportagens e Entrevistas, Gestão de conteúdos da rádio e do website, Apoio técnico e edição de som, Contactos com bandas, editoras e promotores, Comunicação e Imagem, Manutenção e desenvolvimento do website. 
-> <br>
 > Instagram: https://www.instagram.com/engenhariaradio/ 
 > <br>
 > Facebook: https://www.facebook.com/engenhariaradio
