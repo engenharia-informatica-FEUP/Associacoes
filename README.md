@@ -118,6 +118,16 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 > <br>
 > Website: https://www.juponline.pt/
 
+## Just a Change
+* Reconstrói casas de pessoas carenciadas em Portugal.
+> Instagram: https://www.instagram.com/just.a.change/?hl=en
+> <br>
+> Facebook: https://www.facebook.com/Just.a.Change/?ref=br_rs
+> <br>
+> LinkedIn: https://www.linkedin.com/company/just-a-change/
+> <br>
+> Website: https://www.justachange.pt/
+
 ## NIAEFEUP - Núcleo de Informática da AEFEUP
 * A principal motivação é ganhar experiência e competências essenciais para o mundo do trabalho assim como cultivar nos nossos colegas a vontade de aprender linguagens e novas tecnologias. Desenvolvem ideias e projetos, como também organizam eventos e workshops. 
 > Instagram: https://www.instagram.com/niaefeup/
