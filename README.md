@@ -11,6 +11,16 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 > <br>
 > Website: https://www.aefeup.pt/ 
 
+## AIESEC
+* Plataforma global para jovens para desenvolvimento do seu potencial de liderança através de estágios internacionais e oportunidades de voluntariado. 
+> Instagram: https://www.instagram.com/aiesecinportugal/
+> <br>
+> Facebook: https://www.facebook.com/aiesecinportugal
+> <br>
+> LinkedIn: https://www.linkedin.com/company/aiesec-in-portugal/
+> <br>
+> Website: https://aiesec.org/
+
 ## BEST - Board of European Students of Technology 
 * Promove o desenvolvimento de estudantes de tecnologia, oderencendo ferramentas que complementem a sua área de estudo, encorajando comunicação e cooperação nacional e internacional, garantindo uma troca de valores e experiências. Organizam eventos como o SciTeCh, o CareerCraft, o LEoE e o ebec. 
 > Instagram: https://www.instagram.com/bestporto/ 
@@ -160,6 +170,7 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 > Website: https://paginas.fe.up.pt/~tunafe/WP/
 
 ## VO.U. - Associação de Voluntariado Universitário
+* Tem como objetivo a promoção de ações de carácter social, científico, educativo, desportivo, cultural, ambiental, de defesa dos Direitos do Homem e dos Direitos dos Animais.
 > Instagram: https://www.instagram.com/vou.associacao/
 > <br>
 > Facebook: https://www.facebook.com/VO.U.associacao 
