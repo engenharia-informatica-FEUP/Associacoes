@@ -34,6 +34,10 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 ## BRASUP - Associação de cidadãos brasileiros na Universidade do Porto
 > Facebook: https://www.facebook.com/brasup.porto/ 
 
+## Easy Way Out
+* O seu objetivo é disponibilizar uma plataforma de apontamentos de forma organizada e sustentável. 
+> Website: https://github.com/engenharia-informatica-FEUP
+
 ## EF - Education First
 * Intercâmbio cultural, programas académicos, ensino de línguas e viagens educacionais.
 > Instagram: https://www.instagram.com/efportugal/
@@ -64,6 +68,10 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 ## Grupo de Jazz da FEUP 
 * Destinado à participação de membros da comunidade da Universidade do Porto (estudantes, técnicos, docentes) com formação e prática instrumental.
 > Mail: ccultur@fe.up.pt
+
+## GUDO - Grupo Universitário de Debates e Opiniões
+* Visa promover a expressão e o espírito crítico através da realização de debates livres em ambiente aberto.
+> Instagram: https://www.instagram.com/gudogram/  
 
 ## InterUP - Youth Association for International Students 
 * Pretende acompanhar os estudantes internacionais da U.Porto.
@@ -178,6 +186,16 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 > LinkedIn: https://www.linkedin.com/company/tunafe/
 > <br>
 > Website: https://paginas.fe.up.pt/~tunafe/WP/
+
+## VidaEdu
+* Empresa especializada em experiências educativas no estrangeiro tais como estágios profissionais e remunerados, cursos de línguas em vários destinos, organização de programas au pair, voluntariado, viagens educativas e anos sabáticos.
+> Instagram: https://www.instagram.com/vida_edu/ 
+> <br>
+> Facebook: https://www.facebook.com/VidaEdu/ 
+> <br>
+> LinkedIn: https://www.linkedin.com/company/vidaedu/
+> <br>
+> Website: https://www.vidaedu.com/
 
 ## VO.U. - Associação de Voluntariado Universitário
 * Tem como objetivo a promoção de ações de carácter social, científico, educativo, desportivo, cultural, ambiental, de defesa dos Direitos do Homem e dos Direitos dos Animais.
