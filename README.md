@@ -34,6 +34,16 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 ## BRASUP - Associação de cidadãos brasileiros na Universidade do Porto
 > Facebook: https://www.facebook.com/brasup.porto/ 
 
+## EF - Education First
+* Intercâmbio cultural, programas académicos, ensino de línguas e viagens educacionais.
+> Instagram: https://www.instagram.com/efportugal/
+> <br>
+> Facebook: https://www.facebook.com/EFPortugal
+> <br>
+> LinkedIn: https://www.linkedin.com/company/ef-education-first/
+> <br>
+> Website: https://www.ef.edu.pt/
+
 ## Engenharia Rádio
 * Meio de expressão, divulgação e discussão no meio estudantil. O que podes fazer? Locução e Produção de Programas, Reportagens e Entrevistas, Gestão de conteúdos da rádio e do website, Apoio técnico e edição de som, Contactos com bandas, editoras e promotores, Comunicação e Imagem, Manutenção e desenvolvimento do website. 
 > Instagram: https://www.instagram.com/engenhariaradio/ 
