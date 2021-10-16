@@ -1,5 +1,5 @@
 # Associações
-Associações de informática, da FEUP ou da Universidade do Porto a que te podes juntar!
+Associações de informática, da FEUP, da Universidade do Porto ou para estudantes em Portugal a que te podes juntar!
 
 ## AEFEUP - Associação de Estudantes da FEUP
 * Dedica-se à defesa intransigente dos direitos dos estudantes da FEUP nas diversas facetas da sua vida académica.
@@ -158,3 +158,12 @@ Associações de informática, da FEUP ou da Universidade do Porto a que te pode
 > LinkedIn: https://www.linkedin.com/company/tunafe/
 > <br>
 > Website: https://paginas.fe.up.pt/~tunafe/WP/
+
+## VO.U. - Associação de Voluntariado Universitário
+> Instagram: https://www.instagram.com/vou.associacao/
+> <br>
+> Facebook: https://www.facebook.com/VO.U.associacao 
+> <br>
+> LinkedIn: https://www.linkedin.com/company/associacaovoluntariadouniversitariovou/
+> <br>
+> Website: https://vou.pt/
