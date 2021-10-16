@@ -58,6 +58,16 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 > <br>
 > Website: http://www.engenhariaradio.pt/
 
+## FJC - FEP Junior Consulting
+* Júnior empresa de Consultoria cujo objectivo é formar e estimular o empreendedorismo naqueles que serão um dia os economistas e os gestores do tecido empresarial nacional.
+> Instagram: https://www.instagram.com/fepjuniorconsulting/ 
+> <br>
+> Facebook: https://www.facebook.com/fepjuniorconsulting
+> <br>
+> LinkedIn: https://www.linkedin.com/company/fep-junior-consulting/?originalSubdomain=pt 
+> <br>
+> Website: https://fjc.pt/
+
 ## Grupo de Fados de Engenharia
 > Instagram: https://www.instagram.com/gffeup/
 > <br>
