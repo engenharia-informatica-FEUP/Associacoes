@@ -97,6 +97,8 @@ Associações de informática, da FEUP ou da Universidade do Porto a que te pode
 > Facebook: https://www.facebook.com/NCGMFEUP
 > <br>
 > LinkedIn: https://www.linkedin.com/company/necgm/
+> <br>
+> Website: https://ncgm.itch.io/
 
 ## Networkme
 * Mentorias, eventos, desafios e oportunidades de emprego. 
