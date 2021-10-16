@@ -80,6 +80,16 @@ Associações de informática, da FEUP ou da Universidade do Porto a que te pode
 > <br>
 > Website: https://www.junifeup.pt/
 
+## JUP - Jornal Universitário do Porto
+* Pretendem inteirar-se do melhor e do pior que se faz nas políticas educativas e sociais, bem como na Academia, na cidade, no país e no mundo.
+> Instagram: https://www.instagram.com/jornaluniversitarioporto/ 
+> <br>
+> Facebook: https://www.facebook.com/jornaljup/
+> <br>
+> LinkedIn: https://www.linkedin.com/company/jornal-universit%C3%A1rio-do-porto/
+> <br>
+> Website: https://www.juponline.pt/
+
 ## NIAEFEUP - Núcleo de Informática da AEFEUP
 * A principal motivação é ganhar experiência e competências essenciais para o mundo do trabalho assim como cultivar nos nossos colegas a vontade de aprender linguagens e novas tecnologias. Desenvolvem ideias e projetos, como também organizam eventos e workshops. 
 > Instagram: https://www.instagram.com/niaefeup/
