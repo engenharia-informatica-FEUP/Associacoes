@@ -34,6 +34,13 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 ## BRASUP - Associação de cidadãos brasileiros na Universidade do Porto
 > Facebook: https://www.facebook.com/brasup.porto/ 
 
+## CIENTUNA - Tuna Feminina de Ciências do Porto
+> Instagram: https://www.instagram.com/cientuna_fcup/ 
+> <br>
+> Facebook: https://www.facebook.com/cientuna 
+> <br>
+> Website: https://cientuna.wixsite.com/fcup
+
 ## Easy Way Out
 * O seu objetivo é disponibilizar uma plataforma de apontamentos de forma organizada e sustentável. 
 > Website: https://github.com/engenharia-informatica-FEUP
@@ -67,6 +74,12 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 > LinkedIn: https://www.linkedin.com/company/fep-junior-consulting/?originalSubdomain=pt 
 > <br>
 > Website: https://fjc.pt/
+
+## FOCA - Focus on Critical Actions
+* É uma associação de jovens que tem como missão fazer mais pelo Ambiente.
+> Instagram: https://www.instagram.com/focusoncriticalactions/ 
+> <br>
+> Facebook: https://www.facebook.com/FocusOnCriticalActions 
 
 ## Grupo de Fados de Engenharia
 > Instagram: https://www.instagram.com/gffeup/
