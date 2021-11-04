@@ -34,6 +34,16 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 ## BRASUP - Associação de cidadãos brasileiros na Universidade do Porto
 > Facebook: https://www.facebook.com/brasup.porto/ 
 
+## CASA - Centro de Apoio ao Sem Abrigo
+* Auxiliar aqueles que se encontram em situação de Sem-Abrigo, que integrem Famílias em Risco ou Famílias Carênciadas, através de ações de solidariedade social, disponibilizando um contacto próximo, bens alimentares, artigos de vestuário e serviços de reintegração social, independentemente do estrato social, etnia, religião ou género.
+> Instagram: https://www.instagram.com/casa.apoioaosemabrigo/  
+> <br>
+> Facebook: https://www.facebook.com/CentroApoioSemAbrigo/ 
+> <br>
+> LinkedIn: https://www.linkedin.com/company/casa-centro-de-apoio-ao-sem-abrigo/
+> <br>
+> Website: https://casa-apoioaosemabrigo.org/index.php  
+
 ## CIENTUNA - Tuna Feminina de Ciências do Porto
 > Instagram: https://www.instagram.com/cientuna_fcup/ 
 > <br>
