@@ -121,6 +121,14 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 > <br>
 > Website: https://paginas.fe.up.pt/~isporto/
 
+## Já T'Explico
+* Combatem o insucesso e abandono escolar, promovendo um apoio completo e transversal que se espelha, não apenas nas explicações individuais e personalizadas, mas também no acompanhamento efetivo. 
+> Instagram: https://www.instagram.com/jatexplico.pt/ 
+> <br>
+> Facebook: https://www.facebook.com/jateexplico 
+> <br>
+> Website: https://www.jatexplico.pt/
+
 ## JuniFEUP - Júnior Empresa da Faculdade de Engenharia da Universidade do Porto
 * Empresa constituída por estudantes da Universidade do Porto, orientados para soluções de consultoria IT e webdesign, apoio na gestão de produção e apoio no desenvolvimento de produto. O seu intuito é efetivar a ligação entre o meio académico e o meio empresarial.
 > Instagram: https://www.instagram.com/junifeup/
