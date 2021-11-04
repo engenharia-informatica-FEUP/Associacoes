@@ -129,6 +129,10 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 > <br>
 > Website: https://www.jatexplico.pt/
 
+## JobTeaser
+* Portal de emprego da Universidade do Porto - Talento e Carreira. Encontram empresas, ofertas de estágios/emprego/entre outros, eventos e apoio especializado.
+> Website: https://uporto.jobteaser.com/pt/ 
+
 ## JuniFEUP - Júnior Empresa da Faculdade de Engenharia da Universidade do Porto
 * Empresa constituída por estudantes da Universidade do Porto, orientados para soluções de consultoria IT e webdesign, apoio na gestão de produção e apoio no desenvolvimento de produto. O seu intuito é efetivar a ligação entre o meio académico e o meio empresarial.
 > Instagram: https://www.instagram.com/junifeup/
