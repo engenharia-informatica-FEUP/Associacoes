@@ -226,6 +226,16 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 > <br>
 > Website: https://share-up.pt
 
+## SUNIporto - Júnior Empresa de Desporto e Nutrição
+* Procuram aplicar os conhecimentos provenientes das suas áreas de estudo no contexto profissional, convertendo-os na prestação de serviços a empresas e instituições.
+> Instagram: https://www.instagram.com/suniporto/
+> <br>
+> Facebook: https://www.facebook.com/suniporto/
+> <br>
+> LinkedIn: https://www.linkedin.com/company/suniportoo/
+> <br>
+> Website: https://suniporto.pt/
+
 ## TEUP - Tuna de Engenharia
 > Instagram: https://www.instagram.com/teup/
 > <br>
