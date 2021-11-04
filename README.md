@@ -75,6 +75,16 @@ Associações de informática, da FEUP, da Universidade do Porto ou para estudan
 > <br>
 > Website: http://www.engenhariaradio.pt/
 
+## FEP First Connection
+* Aproximar o mundo académico ao tecido empresarial. Ao mesmo tempo, pretende promover a criação de uma network profissional, ajudar no desenvolvimento das soft skills e dar a conhecer o potencial dos estudantes aos empregadores.
+> Instagram: https://www.instagram.com/fepfirstconnection/ 
+> <br>
+> Facebook: https://www.facebook.com/fepfc
+> <br>
+> LinkedIn: https://www.linkedin.com/company/fep-first-connection/ 
+> <br>
+> Website: http://firstconnection.pt/
+
 ## FJC - FEP Junior Consulting
 * Júnior empresa de Consultoria cujo objectivo é formar e estimular o empreendedorismo naqueles que serão um dia os economistas e os gestores do tecido empresarial nacional.
 > Instagram: https://www.instagram.com/fepjuniorconsulting/ 
